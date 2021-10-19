@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# This is my Smile Dental Care website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped,React, firebase, react router with [Create React App](https://github.com/facebook/create-react-app).
+
+## I have use Bootstrap
+
+I have use here Bootstrap for some design.
+
+## React
+
+I have use here react for easy to develop this website.
+
+## Firebase
+
+Ihave use here Google Firebase for collect login infrmation from user.
+
+## React router 
+
+I have use here react router  and private Route.
+
+## Context API
+
+I have use here context API
+
 
 ## Available Scripts
 
