@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "this is name",
+        "price": 100,
+        "description": "thi si lorem ipsum text",
+        "img": "https://i.ibb.co/z60bWGg/dnt1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "this is name",
+        "price": 100,
+        "description": "thi si lorem ipsum text",
+        "img": "https://i.ibb.co/zhTwZ34/dnt2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "this is name",
+        "price": 100,
+        "description": "thi si lorem ipsum text",
+        "img": "https://i.ibb.co/z60bWGg/dnt1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "this is name",
+        "price": 100,
+        "description": "thi si lorem ipsum text",
+        "img": "https://i.ibb.co/zhTwZ34/dnt2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "this is name",
+        "price": 100,
+        "description": "thi si lorem ipsum text",
+        "img": "https://i.ibb.co/z60bWGg/dnt1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "this is name",
+        "price": 100,
+        "description": "thi si lorem ipsum text",
+        "img": "https://i.ibb.co/zhTwZ34/dnt2.jpg"
+    }
+]
