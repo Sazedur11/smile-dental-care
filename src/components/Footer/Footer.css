@@ -1,0 +1,13 @@
+.footer{
+    background-color: #444444;
+    display: flex;
+    padding-top: 10vh;
+    color: white;
+}
+@media only screen and (max-width: 688px){
+.footer{
+    display: flex;
+    flex-direction: column;
+    padding-top: 5vh;
+}
+}

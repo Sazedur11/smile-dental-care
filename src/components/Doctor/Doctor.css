@@ -1,0 +1,9 @@
+.doctor-card h4{
+    margin-top: 5vh;
+}
+.doctor-card img{
+    vertical-align: middle;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+}

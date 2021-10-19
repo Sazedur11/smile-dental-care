@@ -1,9 +1,14 @@
 .service-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 30px;
+    grid-gap: 20px;
     width: 90%;
     margin: auto;
+}
+#services h3{
+    font-size: 48px;
+    line-height: 2;
+    font-weight: bold;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -16,6 +21,9 @@
 @media only screen and (max-width: 688px) {
     .service-container{
         grid-template-columns: repeat(1, 1fr);
+    }
+    #services h3{
+        font-size: 36px;
     }
     
 }

@@ -3,42 +3,42 @@
         "id": 1,
         "name": "General Checkups",
         "price": 100,
-        "description": "thi si lorem ipsum text",
-        "img": "https://i.ibb.co/z60bWGg/dnt1.jpg"
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humou",
+        "img": "https://i.ibb.co/ZNMcTjp/General-Checkups.png"
     },
     {
         "id": 2,
         "name": " Dental Implants",
-        "price": 100,
-        "description": "thi si lorem ipsum text",
-        "img": "https://i.ibb.co/zhTwZ34/dnt2.jpg"
+        "price": 150,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humou",
+        "img": "https://i.ibb.co/SPSHPXh/Dental-Implants.png"
     },
     {
         "id": 3,
         "name": "Restoration",
-        "price": 100,
-        "description": "thi si lorem ipsum text",
-        "img": "https://i.ibb.co/z60bWGg/dnt1.jpg"
+        "price": 200,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humou",
+        "img": "https://i.ibb.co/CM4y7hG/Restoration.png"
     },
     {
         "id": 4,
         "name": "Cosmetic Dentistry",
-        "price": 100,
-        "description": "thi si lorem ipsum text",
-        "img": "https://i.ibb.co/zhTwZ34/dnt2.jpg"
+        "price": 400,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humou",
+        "img": "https://i.ibb.co/42mcWvS/Cosmetic-Dentistry.png"
     },
     {
         "id": 5,
         "name": "Teeth Whitening",
-        "price": 100,
-        "description": "thi si lorem ipsum text",
-        "img": "https://i.ibb.co/z60bWGg/dnt1.jpg"
+        "price": 300,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humou",
+        "img": "https://i.ibb.co/KXmb4mR/Teeth-Whitening.png"
     },
     {
         "id": 6,
         "name": "Orthodontic Care",
-        "price": 100,
-        "description": "thi si lorem ipsum text",
-        "img": "https://i.ibb.co/zhTwZ34/dnt2.jpg"
+        "price": 250,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humou",
+        "img": "https://i.ibb.co/Nj4p4B0/Orthodontic-Care.png"
     }
 ]

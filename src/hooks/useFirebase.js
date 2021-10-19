@@ -5,7 +5,12 @@ import initauth from "../Firebase/firebase.init";
 initauth();
 const useFirebase = () => {
     const [user, setUser] = useState({});
-    const [isLoading, setIsLoading] = useState(true)
+    const [isLoading, setIsLoading] = useState(true);
+
+    //email
+    // const [name, setName] = useState('');
+    // const [email, setEmail] = useState('');
+    // const [password, setPassword] = useState('');
 
     const auth = getAuth();
 
@@ -19,6 +24,21 @@ const useFirebase = () => {
         // .finally(() => setIsLoading(false))
 
     }
+
+    //email
+    // const handleRegister = e => {
+    //     console.log(name, email, password);
+    //     e.preventDefault();
+    // }
+    // const handleNameChange = e => {
+    //     setName(e.target.value)
+    // }
+    // const handleEmailChange = e => {
+    //     setEmail(e.target.value)
+    // }
+    // const handlePasswordChange = e => {
+    //     setPassword(e.target.value)
+    // }
 
     //user state change
     useEffect(() => {

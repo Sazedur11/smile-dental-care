@@ -7,8 +7,8 @@ const Service = ({ service }) => {
     return (
         <div id="services" className="service-card">
             <img src={img} alt="" />
-            <h2>{name}</h2>
-            <p>Price ${price}</p>
+            <h4>{name}</h4>
+            <h5>Price ${price}</h5>
             <p>{description}</p>
             <Link to={`/booking/${id}`}>
                 <button className="btn btn-info">Booking {name}</button>

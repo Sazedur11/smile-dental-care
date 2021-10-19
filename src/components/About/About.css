@@ -2,4 +2,34 @@
     display: flex;
     width: 90%;
     margin: auto;
+    padding: 10vh 0px;
+}
+.first-col{
+    padding: 5vh 10vh 5vh 2vh;
+    text-align: left;
+}
+.second-col{
+    padding: 5vh 15vh;
+    background-color: #e0f1ff;
+    border-radius: 25px;
+}
+.ab-btn{
+    margin-top: 10vh;
+}
+@media only screen and (max-width: 688px) {
+    .about-container{
+        display: block;
+        padding: 3vh 0px;
+    }
+    .first-col{
+        text-align: center;
+        padding: 2vh 0px;
+    }
+    .second-col{
+        padding: 2vh 0px;
+    }
+    .ab-btn{
+        margin-top: 2vh;
+    }
+    
 }
